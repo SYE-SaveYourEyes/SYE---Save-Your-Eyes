@@ -6,6 +6,8 @@ Welcome to **SYE (Save Your Eyes)**, your companion app for healthier digital ha
 
 SYE - Save Your Eyes is an iOS app designed to help you:
 - **Protect your eyes** with the 20-20-20 Eye Rest rule
+
+Upcoming (not available as of yet) :
 - **Manage screen time** with Homework/Focus Mode for parental control
 - **Track lifetime phone usage** to understand your digital habits
 
@@ -28,8 +30,8 @@ Follow the eye care rule: every 20 minutes, take a 20-second break to look at so
 - Cycle progress is displayed (e.g., "Cycle 1/3")
 - You can stop the session anytime by starting a new one
 
-### 2. Homework/Focus Mode (Parental Control)
-Block all apps and websites except those you allow, helping children stay focused during study time.
+### 2. Homework/Focus Mode (Upcoming)
+Block all apps and websites except those you allow.
 
 **How to use:**
 1. Enable Screen Time permission (required)
@@ -45,7 +47,7 @@ Block all apps and websites except those you allow, helping children stay focuse
 - Notifications when sessions start and end
 - Session persists even if the app is closed
 
-### 3. Expected Hours of Phone Use
+### 3. Expected Hours of Phone Use (Upcoming)
 See how much of your lifetime you spend on your phone based on your weekly screen time.
 
 **How to use:**
