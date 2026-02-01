@@ -207,7 +207,7 @@ See how much of your lifetime you spend on your phone based on your weekly scree
 
 ## 📋 System Requirements
 
-- **iOS Version:** 16.0 or later (iOS 17.0+ recommended)
+- **iOS Version:** 18 or later
 - **Device:** iPhone or iPad
 - **Storage:** Minimal storage required (under 50 MB)
 - **Internet:** Not required (works offline)
@@ -253,8 +253,6 @@ We're constantly working to improve SYE. If you have feature suggestions or feed
 
 **What's New:**
 - Initial release with 20-20-20 Eye Rest
-- Homework/Focus Mode for parental control
-- Lifetime phone usage tracking
 - Offline-first architecture
 
 ---
@@ -275,7 +273,7 @@ By using SYE - Save Your Eyes, you agree to use the app responsibly. The app is 
 
 ---
 
-**Last Updated:** November 2024
+**Last Updated:** February 2026
 
 **Support Email:** [syecontact.app@gmail.com](mailto:syecontact.app@gmail.com)
 
